@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-docker-gui",
+  "version": "1.0.0",
+  "description": "Run a Linux GUI in Docker and view it in browser via noVNC",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
